@@ -1,3 +1,5 @@
 # Java
 Java
-Public Main{}
+Public Main{
+	publicstaticvoidmain
+}
