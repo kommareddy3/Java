@@ -1,2 +1,3 @@
 # Java
 Java
+Public Main{}
