@@ -1,5 +1,7 @@
 # Java
 Java
-Public Main{
-	publicstaticvoidmain(String[] args)
-}
+class Simple{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
+}  
