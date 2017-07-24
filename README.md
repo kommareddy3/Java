@@ -1,5 +1,5 @@
 # Java
 Java
 Public Main{
-	publicstaticvoidmain
+	system.out.println("Hello Ragu")
 }
