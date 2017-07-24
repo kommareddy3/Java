@@ -1,7 +1,9 @@
 # Java
 Java
-class Simple{  
-    public static void main(String args[]){  
-     System.out.println("Hello Java");  
-    }  
-}  
+
+Public Main{
+	system.out.println("Hello Ragu")
+}
+
+
+
