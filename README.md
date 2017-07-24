@@ -1,5 +1,5 @@
 # Java
 Java
 Public Main{
-	publicstaticvoidmain
+	publicstaticvoidmain(String[] args)
 }
